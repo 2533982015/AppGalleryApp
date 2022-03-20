@@ -3,7 +3,7 @@ List<Map<String, dynamic>> data = [
     'category': 'Paisajes',
     'images': [
       {
-        'description': 'this is a description image',
+        'description': '',
         'date': '2022/03/19',
         'url': 'assets/images/categoria-1/paisaje-1.jpg'
       },
