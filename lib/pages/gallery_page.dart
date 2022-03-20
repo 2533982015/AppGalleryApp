@@ -27,10 +27,11 @@ class _GalleryPageState extends State<GalleryPage> {
       labelColor: Colors.black,
       indicatorColor: Colors.red,
       isScrollable: true,
-      tabs: data.map((cat) => Tab(text: cat['category'])).toList());
+      tabs: [...data.map((cat) => Tab(text: cat['category']))]);
 
   TabBarView _content() => TabBarView(
-      children: data.map((cat) => _images(images: cat['images'])).toList());
+        children: [...data.map((cat) => _images(images: cat['images']))],
+      );
 
   Widget _images({required List<Map<String, String>> images}) => GridView.count(
       crossAxisCount: 2,
