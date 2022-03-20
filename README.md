@@ -1,7 +1,8 @@
 # gallery_app
 
-![image](https://user-images.githubusercontent.com/100048011/159140182-5d8176cc-3854-48f6-858e-8f4cc0dce14c.png)
-![image](https://user-images.githubusercontent.com/100048011/159140192-10d4e072-3030-4345-958c-ccf3bb845a69.png)
+![image](https://user-images.githubusercontent.com/100048011/159148318-9c142784-493f-4438-8770-03db159b9d70.png)
+
+![image](https://user-images.githubusercontent.com/100048011/159148306-aebf995b-ed94-447f-9102-1f38d84f0d05.png)
 
 
 ## Getting Started
